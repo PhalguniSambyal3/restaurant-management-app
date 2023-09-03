@@ -1,4 +1,6 @@
 # my-vue
+This is my First Vue Js project. 
+Restaurant Managing App. 
 
 ## Project setup
 ```
